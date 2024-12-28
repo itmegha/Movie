@@ -1,0 +1,11 @@
+#div1{
+  width: 200px;
+  height: 350px;
+  border: solid 2px black;
+  margin: 20px;
+  float: left;
+}
+button{
+  float: left;
+}
+
